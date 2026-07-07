@@ -516,8 +516,8 @@
     { name: "Computer and Data Networks (ENG)",                            credit: 6, score: 90.00,  status: "finished" },
     { name: "Cyberlaw and Ethics (ENG)",                                   credit: 6, score: 97.00,  status: "finished" },
 
-    { name: "Databases and Information Systems (ENG)",                     credit: 6, score: 100.00, status: "in-progress" },
-    { name: "Design Patterns (ENG)",                                       credit: 6, score: 98.00,  status: "in-progress" },
+    { name: "Databases and Information Systems (ENG)",                     credit: 6, score: 100.00, status: "finished" },
+    { name: "Design Patterns (ENG)",                                       credit: 6, score: 98.00,  status: "finished" },
     { name: "Distributed and Parallel Computing (ENG)",                    credit: 6, score: 0.00,   status: "in-progress" },
 
     { name: "Drones (ENG)",                                                credit: 6, score: 99.00,  status: "finished" },
@@ -649,8 +649,8 @@
     showResult(
       "GPA (completed courses):",
       list,
-      "Excludes the 5 courses currently in progress (Introduction to AI, Distributed and Parallel Computing, " +
-      "Databases and Information Systems, Introduction to machine learning, Design Patterns)."
+      "Excludes the 3 courses currently in progress (Introduction to AI, Distributed and Parallel Computing, " +
+      "Introduction to machine learning)."
     );
   });
 
@@ -665,7 +665,7 @@
       " = " + assumedScore + " &rarr; " + scoreToLetter(assumedScore) + " / GP " + scoreToGP(assumedScore).toFixed(2) + "):",
       list,
       "Introduction to AI is added with an assumed final score of 100 (A+, 4.00 GP). " +
-      "The other 4 in-progress courses remain excluded."
+      "The other 2 in-progress courses remain excluded."
     );
   });
 
