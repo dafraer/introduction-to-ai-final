@@ -1,40 +1,34 @@
 Introduction to AI
 Final Exam
+Kamil Nuriev 
+Ilia State University Tbilisi
 Rules
 • All images must be inserted into the file "answer.md" using standard Markdown image syntax: "![](image.png)".
 Do not embed images into the Markdown document as binary data or use textual descriptions instead of actual images.
 • The web application should be committed under the directory "gpa" in the GitHub.
-• Communication with other people is prohibited during the exam while you are in the classroom. Do not re-enter
-the room if you leave it.
-• Create a new public GitHub repository and upload all necessary files and send me the link to this repository by
-email. The repository must remain public until grading is completed.
-• Do not forget to "check out" before leaving the class.
-• The final commit to the repository must be made before the exam deadline. Commit timestamps will be checked
-during evaluation — files modified after the deadline will not count.
-• The exam will not be evaluated in case of rule violations or cheating.
+• Commit all the solutions and push it to origin main using git. 
+
 Assignment
 Task 1. Using generative AI
 2 points
-Find the picture at "https://max.ge/ai2026/final/picture-template.jpeg".
-Use any AI tool (ChatGPT, app.leonardo.ai, Gemini, Grok, ...) and add a Jaguar to this picture. Insert resulting picture in
-the "answer.md" file as the answer to this task. See image requirements in Rules section.
+Find the picture at ./original_picture_no_jaguar.jpeg
+Using gemini I added Jaguar to that picture. The picture with the Jaguar is ./added_jaguar.jpeg
+Insert resulting picture in the "answer.md" file as the answer to this task. See image requirements in Rules section.
 
 Task 2. Creating user manual
 3 points
 Write the user manual for implementing task 1. The manual should be step-by-step user manual, how to sign-up for the
 AI tool (you have used for the task 1) and adding the Jaguar to the picture. The manual should be clear and easy to read.
-It should be well formatted. The manual should include screenshots of the AI interface and the process of adding the
-object to the picture. The initial picture and the final result should be inserted in the manual. See image requirements in
+It should be well formatted. The manual should include screenshots of the gemini interface (gemini_interface_screenshot.jpeg) and the process of adding the
+object to the picture. The initial picture (original_picture_no_jaguar.jpeg) and the final result (added_jaguar.jpeg) should be inserted in the manual. See image requirements in
 Rules section.
-
-INTRODUCTION TO AI JULY 7, 2026
 
 Final Exam PAGE 2 (OF 3)
 Task 3. Finding the graph
 5 points
-Explore the chat bot at "https://max.ge/ai2026/final/graph_bot_Kamil_Nuriev_827305164.html".
-Draw the entire graph as the answer to this task in any graphical editor (even Google Doc is OK). Every reachable node
-and transition must be included in the graph. Insert the picture in the "answer.md" as the answer to this task.
+I explored the chat bot at "https://max.ge/ai2026/final/graph_bot_Kamil_Nuriev_827305164.html".
+and drew the entire graph to graph_for_task_3.png . Every reachable node
+and transition is included in the graph. Insert the picture in the "answer.md" as the answer to this task.
 
 Task 4. Build a web application
 20 points
@@ -42,7 +36,6 @@ Build a web application that helps a student calculate their GPA based on the tr
 Technical Requirements:
 The solution must consist of exactly one HTML file. CSS and JavaScript must be embedded inside this file. External
 libraries, frameworks, CDNs and additional files are not allowed.
-You are allowed to use the AI for this. See the example of the Vibe Coding in Google Classroom.
 Detailed Requirements and Points:
 
 Subtask 1. The application should display the list of the courses
@@ -50,7 +43,7 @@ Subtask 1. The application should display the list of the courses
 When the page loads, a table must automatically appear on screen containing 4 columns "course", "credit", "grade" and
 "passed".
 "course" column should contain all your courses (completed, failed, and currently in progress) listed exactly as they
-appear in your transcript (see Argus system). At the bottom of this list, add 5 additional courses from your program (your
+appear in your transcript (see transcript_from_argus.txt). At the bottom of this list, add 5 additional courses from your program (your
 choice). The additional courses must not duplicate existing courses.
 "credit" column: The number of the credits for the given course.
 "grade" column: Your grade for the given course.
@@ -59,17 +52,14 @@ assume grade A (100), credit 6, and consider them as passed.
 
 Subtask 2. Program Name
 1 point
-Your current academic program name must be clearly displayed on screen.
+Computer Science is academic program name and must be clearly displayed on screen.
 
 Subtask 3. Information about GPA
 5 points
-Use AI to translate the following document in English: https://iliauni.edu.ge/uploads/other/82/82542.pdf
+Use AI to translate the following document in English ./82542.pdf
 The translated document must appear inside a tooltip that opens when the user hovers over or clicks the information
 icon.
 
-INTRODUCTION TO AI JULY 7, 2026
-
-Final Exam PAGE 3 (OF 3)
 The formatting of the text will be taken in consideration while evaluating this task.
 
 Subtask 4. "Calculate" Button

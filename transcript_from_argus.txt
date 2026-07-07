@@ -1,0 +1,45 @@
+
+My Courses
+Home
+My Courses
+All Courses
+General Module
+ENGCSC
+Other Programs
+All Credits 164
+Program Course
+General Course
+Successfully Finished
+Currently chosen credits (30 credits)
+Failed
+Program Code	Course Name	Cred. Type	Score	Gain Cred.	Credit	Belong.
+INTROGEN / CIVENGGEN ENGCENGEN ENGCSCGEN MNGENGGEN...	Academic Techniques (ENG)	Internal	100.00	6	6	
+0 / CIVENGGEN ELECENGGEN ENGCENGEN ENGCSCGEN / 0 /...	Basics of Physics I (including Lab) (ENG)	Internal	56.50	8	8	
+0 / CIVENGGEN ELECENGGEN ELECTENGGEN ENGCENGEN / 0...	Basics of Physics II (ENG)	Internal	64.00	6	6	
+0 / CIVENGGEN ELECENGGEN ENGCENGEN ENGCSCGEN / 0 /...	Calculus I (ENG)	Internal	56.00	6	6	
+0 / CIVENGGEN ELECENGGEN ENGCENGEN ENGCSCGEN / 0 /...	Calculus II (ENG)	Internal	54.20	6	6	
+0 / CIVENGGEN ELECENGGEN ENGCENGEN ENGCSCGEN / 0 /...	Calculus III (ENG)	Internal	57.00	6	6	
+0 / ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Introduction to Linear Algebra (ENG)	Internal	57.00	6	6	
+INTROGEN / MNGENGGEN / 0 / 0	Introduction to Modern Thought I (ENG)	Internal	61.00	6	6	
+INTROGEN / BSNENGGEN / 0 / 0	Practical Course of Georgian for Foreigners (A1.1a) (ENG)	Internal	100.00	6	6	
+INTROGEN / BSNENGGEN ELECTENGGEN ENGCENGEN ENGCSCG...	Practical Course of Georgian for Foreigners (A1.1b) (ENG)	Internal	72.70	6	6	
+ENGCENGEN ENGCSCGEN / 0 / 0	Algorithms and Data Structures (ENG)	Internal	79.00	6	6	
+ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Computational and Statistical Methods (ENG)	Internal	57.00	6	6	
+ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Computer Organization (ENG)	Internal	81.10	6	6	
+ENGCENGEN ENGCSCGEN / 0 / 0	Computer and Data Networks (ENG)	Internal	90.00	6	6	
+ENGCSCGEN / 0 / ENGCEN	Cyberlaw and Ethics (ENG)	Internal	97.00	6	6	
+ENGCSCGEN / 0 / ENGCEN	Databases and Information Systems (ENG)	Internal	100.00	6	6	
+ENGCSCGEN / 0 / 0	Design Patterns (ENG)	Internal	98.00	6	6	
+ENGCSCGEN / 0 / ENGCEN	Distributed and Parallel Computing (ENG)	Internal	0.00	0	6	
+0 / 0 / ELECTENG ENGCEN ENGCSC	Drones (ENG)	Internal	99.00	6	6	
+ENGCSCGEN / 0 / 0	Elements of Computational Complexity (ENG)	Internal	62.00	6	6	
+0 / 0 / CIVENG ELECENG ENGCSC ENGCEN	Introduction to Artificial Intelligence (ENG)	Internal	70.00	0	6	
+ENGCENGEN ENGCSCGEN / 0 / 0	Introduction to Cyber Security (ENG)	Internal	95.00	6	6	
+0 / 0 / ELECENG	Introduction to Energy Systems and Technologies (ENG)	Internal	60.00	6	6	
+ENGCENGEN ENGCSCGEN / 0 / 0	Introduction to Operating Systems (ENG)	Internal	97.00	6	6	
+CIVENGGEN ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Introduction to Programming (ENG)	Internal	91.00	6	6	
+ENGCSCGEN / ENGCEN / 0	Introduction to machine learning (ENG)	Internal	43.50	0	6	
+ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Mathematical Foundation of Computing (ENG)	Internal	57.00	6	6	
+ENGCSCGEN / 0 / ELECTENG ENGCEN	Object Oriented Programming (ENG)	Internal	71.50	6	6	
+ELECENGGEN ENGCENGEN ENGCSCGEN / 0 / 0	Principles of Numerical Methods (ENG)	Internal	83.00	6	6	
+ENGCSCGEN / 0 / ENGCEN	Programming Languages (ENG)	Internal	77.00	6	6	
